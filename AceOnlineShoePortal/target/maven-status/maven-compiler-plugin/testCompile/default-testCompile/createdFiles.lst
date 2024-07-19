@@ -1,0 +1,6 @@
+pages\GeneralView.class
+stepDefinition\HomePageStep.class
+pages\UserRegistration.class
+stepDefinition\GeneralUserStep.class
+stepDefinition\UserRegistrationStep.class
+pages\HomePage.class
