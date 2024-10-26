@@ -13,6 +13,7 @@ public class UserRegistrationStep {
     private WebDriver driver;
     private UserRegistration userRegistration;
 
+
     @Given("User navigates to the Login page in Registration")
     public void userNavigatesToTheLoginPageInRegistration() throws InterruptedException {
         WebDriver driver = WebDriverManager.chromedriver().create();
